@@ -1,0 +1,24 @@
+th{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    color: white;
+    background-color: blue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+tr{
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    background-color: white;
+}
+table{
+    border-radius: 10px;
+    background-color: black;
+}
+#top{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
